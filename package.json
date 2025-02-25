@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AI_of_summary.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "mysql2": "^3.12.0",
+    "ollama": "^0.5.13"
+  }
+}
